@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LittleCancer</string>
+    <string name="enter_name_message">Enter your friend\'s name</string>
+    <string name="add_friend">Add new friend</string>
+    <string name="name_empty_error">Name cannot be empty!</string>
+    <string name="amount">Amount</string>
+    <string name="who_gets_the_money_question">Who gets the money?</string>
+    <string name="me">Me</string>
+    <string name="someone_else">Someone else</string>
+    <string name="note">Note</string>
+    <string name="save">Save</string>
+    <string name="new_transaction">New transaction</string>
+    <string name="no_friends">You don\'t have friends :(</string>
+    <string name="add_note_message">Add some information about transaction</string>
+    <string name="fill_field_message">You must fill this field</string>
+    <string name="placeholder_name">Name</string>
+    <string name="placeholder_balance">Balance</string>
+    <string name="first_letter">first letter</string>
+    <string name="remove_friend">Remove friend</string>
+    <string name="remove">Remove</string>
+    <string name="edit">Edit</string>
+    <string name="edit_friend">Edit friend</string>
+</resources>
